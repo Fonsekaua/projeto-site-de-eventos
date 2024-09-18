@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.0",
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "scripts": {
+    "backend": "json-server --watch db/db.json"
+  }
+}
